@@ -29,6 +29,21 @@ const photos = [
     title: "Untitled 06",
     year: "2026",
   },
+  {
+    src: "/photos/photo6.jpg",
+    title: "Untitled 06",
+    year: "2026",
+  },
+  {
+    src: "/photos/photo7.jpg",
+    title: "Untitled 06",
+    year: "2026",
+  },
+  {
+    src: "/photos/photo8.jpg",
+    title: "Untitled 06",
+    year: "2026",
+  },
 ];
 
 export default function PhotographyPage() {

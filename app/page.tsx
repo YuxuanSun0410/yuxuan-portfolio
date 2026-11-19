@@ -57,10 +57,10 @@ export default function HomePage() {
             </p>
             <p>
               <a
-                href="mailto:yxasun@ucdavis.edu"
+                href="mailto:sunyuxuan36@gmail.com"
                 className="transition hover:text-black"
               >
-                yxasun@ucdavis.edu
+                sunyuxuan36@gmail.com
               </a>
             </p>
             <p>
